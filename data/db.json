@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Welcome party!",
+      "body": "There are many different types of blogs, differing not only in the type of content, but also in the way that content is delivered or written.Personal blogs The personal blog is an ongoing online diary or commentary written by an individual, rather than a corporation or organization. While the vast majority of personal blogs attract very few readers, other than the bloggers",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Web dev top tips",
+      "body": "There are many different types of blogs, differing not only in the type of content, but also in the way that content is delivered or written.Personal blogs The personal blog is an ongoing online diary or commentary written by an individual, rather than a corporation or organization. While the vast majority of personal blogs attract very few readers, other than the bloggers",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "Learning React JS",
+      "body": "I am learning Reach JS from the Net Ninja",
+      "author": "yoshi",
+      "id": 5
+    },
+    {
+      "title": "aaaaa",
+      "body": "fg;mlvkjhynupyukhndlkhmndshfdds",
+      "author": "mario",
+      "id": 6
+    }
+  ]
+}
